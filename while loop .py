@@ -14,6 +14,6 @@ total = 0
 while count <= 10:
     total = total + count
     count += 1
-
 print(total)
+# 4
 
