@@ -64,6 +64,9 @@ greet_with_title("bob", "person")
 
 
 # 5
-# def describe(name,level,active)
-
+def describe(name,level,active):
+    print("name",name )
+    print("level",level)
+    print("active",active)
+describe(israel)
 
